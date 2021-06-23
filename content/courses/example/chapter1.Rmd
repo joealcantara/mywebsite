@@ -1,0 +1,11 @@
+---
+title: Example Page 1
+date: 2019-05-05
+type: book
+---
+
+`Content...
+```{r}
+library(ggplot2)
+summary(cars)
+```
